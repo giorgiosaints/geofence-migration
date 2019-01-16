@@ -1,0 +1,16 @@
+{
+  "name": "read-excel-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "export NODE_CONFIG_DIR=src/config && node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^2.0.1",
+    "mongoose": "^5.2.17"
+  }
+}

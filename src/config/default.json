@@ -1,0 +1,8 @@
+{
+    "server": {
+        "port": "3002"
+    },
+    "db": {
+        "url": "mongodb://localhost:27017/cebrace"
+    }
+}
